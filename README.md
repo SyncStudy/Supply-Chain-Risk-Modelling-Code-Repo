@@ -6,6 +6,14 @@ Supply Chain Risk Modelling Code Repo
 https://github.com/Ryan0v0/Oxford-Hack-2022
 
 
-## Blockchain based dialogue system demo
+## Production lean time demo in this repo
+
+
+## Visualization system in this repo not done yet
+
+
+## Volitality based on gold price and us cny exchange rate in this repo
+
+
 
 
